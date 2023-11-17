@@ -6,7 +6,7 @@ authors = ["Polypox <shadowFux@proton.me>"]
 description = "Zerius contracts for starknet."
 readme = "README.md"
 homepage = "https://zerius.io/"
-repository = "https://github.com/software-mansion/scarb"
+repository = "https://github.com/zerius-io/zerius-starknet"
 license = "BUSL-0.1"
 keywords = ["erc-721", "onft", "zerius"]
 
